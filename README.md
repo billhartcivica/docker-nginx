@@ -5,7 +5,7 @@ Minimal bare nginx docker image.
 
 ### Configuration
 Bare in mind, that this container does not run as root, so you won't be able to
-bind to privileged ports.
+bind to privileged ports...
 
 There are two ways to pass nginx configuration.
 
