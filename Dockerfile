@@ -9,4 +9,4 @@ COPY bin/run.sh /run.sh
 COPY conf.d /etc/nginx/conf.d
 
 USER nginx
-ENTRYPOINT ["/run.sh"]
+ENTRYPOINT ["/runme.sh"]
