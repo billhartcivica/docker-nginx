@@ -1,5 +1,5 @@
 # docker-nginx
-Minimal bare nginx docker image..
+Minimal bare nginx docker image.
 
 [![Build Status](https://drone.digital.homeoffice.gov.uk/api/badges/UKHomeOffice/docker-nginx/status.svg)](https://drone.digital.homeoffice.gov.uk/UKHomeOffice/docker-nginx)
 
